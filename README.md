@@ -5,10 +5,13 @@
 *   Maitriser la partie NLP avec NLTK en Python
 *   Classer les tweets
 
-## Etapes suivis dans ce travail :
-1.   Prétraitement des tweets
-2.   Traitement des tweets : NLP (Natural LanguageProcessing)
-3.   Classification des tweets
+Ce travail contient 3 parties :
+## 1.   Partie 1 :Extraction des tweets 
+                 le code source de cette étape doit étre executer si seulement vous aimerai traiter le code from Scratch
+                 si non vous pouver utiliser les fichier nommer # extractionNews1Twitter.csv  #extractionNews2Twitter.csv # extractionNews3Twitter.csv
+## 2.   Partie 2 :Prétraitement des tweets
+## 3.   Partie 3 :Traitement des tweets : NLP (Natural LanguageProcessing)
+## 4.   Partie 4 :Classification des tweets
 
 
 
