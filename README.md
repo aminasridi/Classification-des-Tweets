@@ -7,7 +7,7 @@
 
 Ce travail contient 4 parties :
 ## 1.   Partie 1 :Extraction des tweets 
-                 Le code source de cette étape doit étre executer si seulement vous aimerai traiter le code from Scratch
+Le code source de cette étape doit étre executer si seulement vous aimerai traiter le code from Scratch
 ## 2.   Partie 2 : Prétraitement des tweets
                  Dans cette étape vous allez utiliser les fichiers extractionNews1Twitter.csv  extractionNews2Twitter.csv extractionNews3Twitter.csv corpus_clean.csv
                  l’objectif est d’éliminer le texte inutile des tweets tels que les #, les noms des utilisateurs, les url, …
@@ -16,8 +16,9 @@ Ce travail contient 4 parties :
                 *   Segmentation 
                 *   Tokenization
                 *   Lemmatisation
-                 
+                *   Sremming
 ## 4.   Partie 4 :Classification des tweets
+                1. 
 
 
 
