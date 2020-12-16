@@ -1,4 +1,5 @@
 # Import , Netoyage et Classification des tweets 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aminasridi/Import-Netoyage-et-Classification-des-tweets-/main)
 ## Objectifs :
 *   Maitriser l’API de twitter pour l’extraction des tweets
 *   Appliquer les principes de nettoyage des données
