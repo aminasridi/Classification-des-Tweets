@@ -26,7 +26,7 @@ l’objectif est d’éliminer le texte inutile des tweets tels que les #, les n
 ## 4.   Partie 4 :Classification des tweets
 1.    Transforme le texte en une matrice
 2.    KMeans <br>
-![téléchargement](https://www.webrankinfo.com/dossiers/wp-content/uploads/twitter-logo-blue-400.png)  
+![téléchargement](https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png)  
 
 
  
