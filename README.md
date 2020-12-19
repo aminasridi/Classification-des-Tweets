@@ -11,7 +11,7 @@ Ce travail contient 4 parties :
 ## 1.   Partie 1 :Extraction des tweets 
 Le code source de cette étape doit étre executer si seulement vous aimerai traiter le code from Scratch
 ## 2.   Partie 2 : Prétraitement des tweets
-Dans cette étape vous allez utiliser les fichier : [Cliquez ici]https://github.com/aminasridi/Import-Netoyage-et-Classification-des-tweets-/blob/main/extractionNews1Twitter.csv)<br> extractionNews1Twitter.csv  extractionNews2Twitter.csv extractionNews3Twitter.csv corpus_clean.csv
+Dans cette étape vous allez utiliser les fichier  extractionNews1Twitter.csv  extractionNews2Twitter.csv extractionNews3Twitter.csv corpus_clean.csv
 l’objectif est d’éliminer le texte inutile des tweets tels que les #, les noms des utilisateurs, les url, …
 ## 3.   Partie 3 :Traitement des tweets : NLP (Natural LanguageProcessing)
  Cette étape procéde à l’analyse du tweet en respectant les différentes étapes du NLP:
@@ -22,6 +22,8 @@ l’objectif est d’éliminer le texte inutile des tweets tels que les #, les n
 ## 4.   Partie 4 :Classification des tweets
 1.    Transforme le texte en une matrice
 2.    KMeans
+
+Vous trouverez un fichier  bien structuré contenant le contenu de chaque section [Cliquez ici](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/Data_Mining_Project__khalifa_selma.ipynb)<br>
 
 
 
