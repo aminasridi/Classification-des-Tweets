@@ -20,8 +20,7 @@ l’objectif est d’éliminer le texte inutile des tweets tels que les #, les n
                 *   Sremming
 ## 4.   Partie 4 :Classification des tweets
 1.    Transforme le texte en une matrice
-2.    labeliser 
-3.    KMeans
+2.    KMeans
 
 
 
