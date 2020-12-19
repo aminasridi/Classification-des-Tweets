@@ -10,8 +10,8 @@ Ce travail contient 4 parties :
 ## 1.   Partie 1 :Extraction des tweets 
 Le code source de cette étape doit étre executer si seulement vous aimerai traiter le code from Scratch
 ## 2.   Partie 2 : Prétraitement des tweets
-Dans cette étape vous allez utiliser les fichiers :
-[extractionNews1Twitter.csv](https://github.com/aminasridi/Import-Netoyage-et-Classification-des-tweets-/blob/main/extractionNews1Twitter.csv)<br>   
+Dans cette étape vous allez utiliser les fichiers : <br>
+[extractionNews1Twitter.csv](https://github.com/aminasridi/Import-Netoyage-et-Classification-des-tweets-/blob/main/extractionNews1Twitter.csv)   
 [extractionNews2Twitter.csv](https://github.com/aminasridi/Import-Netoyage-et-Classification-des-tweets-/blob/main/extractionNews2Twitter.csv)<br> 
 [extractionNews3Twitter.csv](https://github.com/aminasridi/Import-Netoyage-et-Classification-des-tweets-/blob/main/extractionNews3Twitter.csv)<br> 
 [corpus_clean.csv](https://github.com/aminasridi/Import-Netoyage-et-Classification-des-tweets-/blob/main/corpus_clean.csv)<br> 
