@@ -23,7 +23,7 @@ l’objectif est d’éliminer le texte inutile des tweets tels que les #, les n
 1.    Transforme le texte en une matrice
 2.    KMeans
 
-Vous trouverez un fichier  bien structuré contenant le contenu de chaque section [Cliquez ici](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/Data_Mining_Project__khalifa_selma.ipynb)<br>
+ [Cliquez ici](https://github.com/aminasridi/Import-Netoyage-et-Classification-des-tweets-)<br>
 
 
 
